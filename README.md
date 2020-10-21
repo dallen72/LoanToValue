@@ -5,10 +5,12 @@
 
 Visualizer for finding the optimal down payment amount on a rental property, given certain parameters
 
+TODO: design a test plan for this app. The output is not calculating correctly.
+
 ## Files:
 
 ### runScenario.py
-Main program file. Algorithm shown below.
+Main program file.
 
 ### Calendar.py
 File for shared state. Uses the Borg antipattern.
